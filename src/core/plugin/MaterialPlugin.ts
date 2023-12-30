@@ -22,8 +22,8 @@ class MaterialPlugin {
     this.editor = editor;
 
     this.apiMapUrl = {
-      template: 'https://nihaojob.github.io/vue-fabric-editor-static/template/type.json',
-      svg: 'https://nihaojob.github.io/vue-fabric-editor-static/svg/type.json',
+      template: 'https://h5.editor.im/static/template/type.json',
+      svg: 'https://h5.editor.im/static/svg/type.json',
     };
   }
 
